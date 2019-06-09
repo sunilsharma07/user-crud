@@ -1,0 +1,13 @@
+{ 
+    "_id" : ObjectId("5cfca6f578724e4fe9e612a9"), 
+    "email" : "manish@gmail.com", 
+    "password" : "fbcd188705959627896f162f454505fa", 
+    "created_at" : ISODate("2019-06-09T06:28:05.238+0000"), 
+    "updated_at" : ISODate("2019-06-09T06:28:05.238+0000"), 
+    "status" : NumberInt(1), 
+    "access_token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1Y2ZjYTZmNTc4NzI0ZTRmZTllNjEyYTkiLCJlbWFpbCI6Im1hbmlzaEBnbWFpbC5jb20iLCJ0aW1lc3RhbXAiOiIyMDE5LTA2LTA5VDA4OjEyOjE3LjUxNloiLCJpYXQiOjE1NjAwNjc5MzcsImV4cCI6MTU2MDE1NDMzN30.zh_a0KQyVDyP35GCaBT0ng-DKQrayRLlDcChAMlPh00", 
+    "phone" : "2345678904", 
+    "last_name" : "sharma", 
+    "first_name" : "manish", 
+    "__v" : NumberInt(0)
+}

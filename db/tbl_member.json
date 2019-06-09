@@ -1,0 +1,9 @@
+{ 
+    "_id" : ObjectId("5cfcf3a34279874153eafe35"), 
+    "added_by" : ObjectId("5cfca6f578724e4fe9e612a9"), 
+    "created_at" : ISODate("2019-06-09T11:55:15.252+0000"), 
+    "updated_at" : ISODate("2019-06-09T11:55:15.252+0000"), 
+    "status" : NumberInt(1), 
+    "name" : "Member 1", 
+    "__v" : NumberInt(0)
+}

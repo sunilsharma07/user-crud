@@ -1,0 +1,11 @@
+{ 
+    "_id" : ObjectId("5cfcf3ad4279874153eafe36"), 
+    "added_by" : ObjectId("5cfca6f578724e4fe9e612a9"), 
+    "member_id" : ObjectId("5cfcf3a34279874153eafe35"), 
+    "created_at" : ISODate("2019-06-09T11:55:25.961+0000"), 
+    "updated_at" : ISODate("2019-06-09T11:55:25.961+0000"), 
+    "task_status" : NumberInt(0), 
+    "status" : NumberInt(1), 
+    "name" : "Task 1", 
+    "__v" : NumberInt(0)
+}
